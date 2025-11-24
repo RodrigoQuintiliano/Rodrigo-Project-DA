@@ -1,0 +1,71 @@
+location_id,name,rating,num_reviews,ranking,category,subcategory,street1,city,country,postalcode,address_string
+195107,Castelo De Sao Jorge,4.2,30905,,attraction,"landmarks, attractions",Rua de Santa Cruz do Castelo,Lisbon,Portugal,1100-129,"Rua de Santa Cruz do Castelo, Lisbon 1100-129 Portugal"
+546590,Parque Das Nacoes,4.3,4582,,attraction,"landmarks, attractions, other",Avenida Dom Joao II 13B,Lisbon,Portugal,1990-998,"Avenida Dom Joao II 13B, Lisbon 1990-998 Portugal"
+23804944,Lisbon Cathedral,4.0,2167,,attraction,"landmarks, attractions",Largo da Se 1,Lisbon,Portugal,1100-585,"Largo da Se 1, Lisbon 1100-585 Portugal"
+199878,Praca do Comercio (Terreiro do Paco),4.4,17271,,attraction,"landmarks, attractions",Avenida Infante Dom Henrique 1C,Lisbon,Portugal,1100-053,"Avenida Infante Dom Henrique 1C, Lisbon 1100-053 Portugal"
+23957745,Quake - Museu do Terramoto de Lisboa,4.6,939,,attraction,"landmarks, attractions, museums","Rua Cais da Alfandega Velha, 39",Lisbon,Portugal,1300-598,"Rua Cais da Alfandega Velha, 39, Lisbon 1300-598 Portugal"
+2639519,Lisbon Falls,4.2,323,,attraction,"nature_parks, attractions",,Graskop,South Africa,1270,Graskop 1270 South Africa
+195318,Mosteiro dos Jeronimos,4.5,33014,,attraction,"landmarks, attractions",Praca do Imperio,Lisbon,Portugal,1400-206,"Praca do Imperio, Lisbon 1400-206 Portugal"
+3928986,Lisboa Story Centre,4.2,932,,attraction,"museums, attractions","Terreiro do Paco, 78- 81",Lisbon,Portugal,1100-148,"Terreiro do Paco, 78- 81, Lisbon 1100-148 Portugal"
+195144,Oceanario de Lisboa,4.5,40983,,attraction,"nature_parks, zoos_aquariums, attractions",Esplanada D. Carlos I,Lisbon,Portugal,1990-005,"Esplanada D. Carlos I Doca dos Olivais, Lisbon 1990-005 Portugal"
+2397769,Arco do Triunfo,4.4,6202,,attraction,"landmarks, attractions",Rua Augusta 2,Lisbon,Portugal,1100-053,"Rua Augusta 2 Praça do Comércio, Lisbon 1100-053 Portugal"
+4053329,Marques Do Pombal,4.1,945,,attraction,"landmarks, attractions",Avenida da Liberdade,Lisbon,Portugal,,"Avenida da Liberdade Eduardo VII Park, Lisbon Portugal"
+243620,Padrao dos Descobrimentos,4.2,11535,,attraction,"landmarks, attractions",Avenida Brasilia,Lisbon,Portugal,1400-038,"Avenida Brasilia, Lisbon 1400-038 Portugal"
+2229331,Pavilhao do Conhecimento,4.5,958,,attraction,"museums, attractions",Largo Jose Mariano Gago N0 1,Lisbon,Portugal,1990-073,"Largo Jose Mariano Gago N0 1, Lisbon 1990-073 Portugal"
+262792,Tram 28,3.9,25138,,attraction,"transportation, attractions",,Lisbon,Portugal,,Lisbon Portugal
+6628842,Bikes & Company,4.9,1422,,attraction,"sightseeing_tours, activities, outdoor_activities",Rua dos Douradores 16,Lisbon,Portugal,1100-206,"Rua dos Douradores 16, Lisbon 1100-206 Portugal"
+1992589,Miradouro Da Senhora Do Monte,4.7,3583,,attraction,"landmarks, attractions",Largo Monte,Lisbon,Portugal,1170-253,"Largo Monte, Lisbon 1170-253 Portugal"
+21211618,Convento do Carmo,4.3,120,,attraction,"landmarks, attractions",Largo do Carmo,Lisbon,Portugal,1200-092,"Largo do Carmo Chiado, Lisbon 1200-092 Portugal"
+195776,National Tile Museum,4.5,4597,,attraction,"museums, attractions",Rua Madre de Deus 4,Lisbon,Portugal,1900-312,"Rua Madre de Deus 4, Lisbon 1900-312 Portugal"
+195106,Calouste Gulbenkian Museum,4.6,8709,,attraction,"shopping, museums, attractions",Avenida de Berna 45A,Lisbon,Portugal,1067-001,"Avenida de Berna 45A, Lisbon 1067-001 Portugal"
+195736,Museu Nacional De Arte Antiga,4.5,1329,,attraction,"museums, attractions",Rua das Janelas Verdes,Lisbon,Portugal,1249-017,"Rua das Janelas Verdes, Lisbon 1249-017 Portugal"
+1996418,Museu Arqueologico do Carmo,4.4,2968,,attraction,"museums, attractions",Largo do Carmo,Lisbon,Portugal,1200-092,"Largo do Carmo, Lisbon 1200-092 Portugal"
+24153846,Royal Treasure Museum,4.7,251,,attraction,"landmarks, attractions, museums",Calcada da Ajuda,Lisbon,Portugal,1300-012,"Calcada da Ajuda Ajuda National Palace, Lisbon 1300-012 Portugal"
+12875410,National Museum of Natural History and Science,3.5,398,,attraction,"museums, attractions",Rua da Escola Politecnica 56 58,Lisbon,Portugal,1250-102,"Rua da Escola Politecnica 56 58, Lisbon 1250-102 Portugal"
+1973832,Museu Medeiros E Almeida,4.7,252,,attraction,"museums, attractions",Rua Rosa Araujo 41,Lisbon,Portugal,1250-194,"Rua Rosa Araujo 41, Lisbon 1250-194 Portugal"
+195644,Praca Dom Pedro IV,4.2,2167,,attraction,"landmarks, attractions",,Lisbon,Portugal,1100-026,"on the northern end of Rua Augusta, Lisbon 1100-026 Portugal"
+1775700,We Hate Tourism Tours,4.8,1817,,attraction,"food_drink, sightseeing_tours, activities",,Lisbon,Portugal,1300-501,Lisbon 1300-501 Portugal
+1746966,Inside Lisbon Tours,4.8,11966,,attraction,"food_drink, sightseeing_tours, activities",Rua Ivone Silva 6 70ESQ,Lisbon,Portugal,1050-124,"Rua Ivone Silva 6 70ESQ, Lisbon 1050-124 Portugal"
+524074,Torre de Belem,4.2,38333,,attraction,"landmarks, attractions",Avenida Brasilia,Lisbon,Portugal,1400-038,"Avenida Brasilia, Lisbon 1400-038 Portugal"
+4289715,Lisbon by Boat,4.9,2033,,attraction,"boat_tours_water_sports, outdoor_activities, sightseeing_tours, activities","Padrao dos Descobrimentos , Doca de Belem",Lisbon,Portugal,1300-000,"Padrao dos Descobrimentos , Doca de Belem, Lisbon 1300-000 Portugal"
+10113758,Discover Lisbon,4.8,5445,,attraction,"nightlife, sightseeing_tours, activities",,Lisbon,Portugal,1100,Lisbon 1100 Portugal
+10686020,Eco Tuk Tuk Lisbon,5.0,2152,,attraction,"sightseeing_tours, activities, outdoor_activities",Tv. do Carvalho 25,Lisbon,Portugal,1200-058,"Tv. do Carvalho 25, Lisbon 1200-058 Portugal"
+2021248,City Sightseeing Lisbon,2.3,1355,,attraction,"sightseeing_tours, activities",,Lisbon,Portugal,,Lisbon Portugal
+6124558,Lisbon Hop-on Hop-off Sightseeing Tours,2.2,1288,,attraction,"sightseeing_tours, activities",,Lisbon,Portugal,1070-051,Lisbon 1070-051 Portugal
+546613,Carris - Eletricos de Lisboa,4.3,2654,,attraction,"transportation, attractions",,Lisbon,Portugal,2795-221,Lisbon 2795-221 Portugal
+8078675,My Lisbon Tours,4.9,716,,attraction,"food_drink, sightseeing_tours, activities",Avenida Oscar Monteiro Torres,Lisbon,Portugal,1000-220,"Avenida Oscar Monteiro Torres, Lisbon 1000-220 Portugal"
+12920370,Lisbon with Pats,5.0,167,,attraction,"sightseeing_tours, activities",,Lisbon,Portugal,,Lisbon Portugal
+10634885,Sintra Tourist Bus 434,2.2,625,,attraction,"transportation, attractions",,Sintra,Portugal,2645-019,Sintra 2645-019 Portugal
+6558650,LX Factory,4.3,2902,,attraction,"landmarks, attractions",Rua Rodrigues de Faria 103,Lisbon,Portugal,1300-501,"Rua Rodrigues de Faria 103, Lisbon 1300-501 Portugal"
+2169079,Lisbon by Segway,4.9,1538,,attraction,"food_drink, sightseeing_tours, activities",Rua dos Douradores 16,Lisbon,Portugal,1100-206,"Rua dos Douradores 16, Lisbon 1100-206 Portugal"
+2320746,A Ginjinha,4.5,1421,,attraction,nightlife,Largo Sao Domingos 8,Lisbon,Portugal,1100-201,"Largo Sao Domingos 8, Lisbon 1100-201 Portugal"
+3214902,Time Out Market Lisboa,4.3,25050,,attraction,"food_drink, landmarks, attractions, classes, activities",Avenida 24 de Julho,Lisbon,Portugal,1200-479,"Avenida 24 de Julho, Lisbon 1200-479 Portugal"
+4009718,Miradouro da Graca (Sophia de Mello Breyner Andresen),4.6,2682,,attraction,"landmarks, attractions",Calcada Da Graca,Lisbon,Portugal,1100-265,"Calcada Da Graca Sao Vicente, Lisbon 1100-265 Portugal"
+9792343,Lisbon Airport travel,2.1,405,,attraction,"transportation, attractions",,Lisbon,Portugal,,Lisbon Portugal
+4187481,Lisbon4Smile Tourist Guides -Tours,5.0,63,,attraction,"sightseeing_tours, activities",Largo do Carmo 18,Lisbon,Portugal,1200-092,"Largo do Carmo 18, Lisbon 1200-092 Portugal"
+10536547,Monument to the Restorers,4.0,153,,attraction,"landmarks, attractions",Praca dos Restauradores,Lisbon,Portugal,,"Praca dos Restauradores, Lisbon Portugal"
+5998765,Praca Dos Restauradores,4.0,581,,attraction,"landmarks, attractions",Avenida da Liberdade,Lisbon,Portugal,1250-001,"Avenida da Liberdade, Lisbon 1250-001 Portugal"
+8460163,ColourTrip Lisbon,5.0,2983,,attraction,"sightseeing_tours, activities, outdoor_activities",,Lisbon,Portugal,,Lisbon Portugal
+10807704,Nosso Tejo,4.8,2734,,attraction,"boat_tours_water_sports, outdoor_activities, sightseeing_tours, activities",,Lisbon,Portugal,1100-278,Lisbon 1100-278 Portugal
+7697318,Tuk-Tuk Fun Tours,4.8,382,,attraction,"sightseeing_tours, activities",,Lisbon,Portugal,,Lisbon Portugal
+2412618,Rua dos Correeiros Archaeological Nucleus,4.6,150,,attraction,"landmarks, attractions, museums",Rua dos Correeiros 15 23,Lisbon,Portugal,1100-161,"Rua dos Correeiros 15 23, Lisbon 1100-161 Portugal"
+3954222,Halcyon I - Historical Lisbon Boat Tours,4.9,281,,attraction,"boat_tours_water_sports, outdoor_activities, sightseeing_tours, activities",Doca de Alcantara Norte 701,Lisbon,Portugal,1350-352,"Doca de Alcantara Norte 701, Lisbon 1350-352 Portugal"
+660835,Ulysses S. Grant National Historical Site,4.5,574,,attraction,"landmarks, attractions",7400 Grant Rd,Saint Louis,United States,63123-1801,"7400 Grant Rd, Saint Louis, MO 63123-1801"
+15518965,EcoMassage Lisbon,4.9,1553,,attraction,"wellness_spas, activities",Rua aurea 260,Lisbon,Portugal,1100-062,"Rua aurea 260 Praça Rossio, Lisbon 1100-062 Portugal"
+3203667,Around Lisbon,4.8,1546,,attraction,"boat_tours_water_sports, outdoor_activities, sightseeing_tours, activities",,Lisbon,Portugal,,Lisbon Portugal
+1823200,Lisbon Bike Tour,4.9,785,,attraction,"sightseeing_tours, activities, outdoor_activities",Alameda Cardeal Cerejeira,Lisbon,Portugal,1070-044,"Alameda Cardeal Cerejeira, Lisbon 1070-044 Portugal"
+2353620,Miradouro Sao Pedro de Alcantara,4.5,3629,,attraction,"landmarks, attractions, sightseeing_tours, activities",Rua De Sao Pedro De Alcantara,Lisbon,Portugal,1200-470,"Rua De Sao Pedro De Alcantara Jardim Dos Namorados, Lisbon 1200-470 Portugal"
+7374624,Culinary Backstreets Lisbon,5.0,1727,,attraction,"food_drink, sightseeing_tours, activities",,Lisbon,Portugal,,Lisbon Portugal
+12108295,Lisbon's Tiles,5.0,28,,attraction,shopping,Rua do Salvador 56,Lisbon,Portugal,1100-466,"Rua do Salvador 56, Lisbon 1100-466 Portugal"
+197707,Feira Da Ladra (campo De Santa Clara),3.7,760,,attraction,shopping,Campo de Santa Clara,Lisbon,Portugal,1100-472,"Campo de Santa Clara, Lisbon 1100-472 Portugal"
+6514279,Jardim Da Estrela Park,4.4,374,,attraction,"nature_parks, attractions",Praca da Estrela 12,Lisbon,Portugal,1200-694,"Praca da Estrela 12, Lisbon 1200-694 Portugal"
+245903,Parque Eduardo VII,4.2,2062,,attraction,"fun_games, nature_parks, attractions, activities",,Lisbon,Portugal,1070-051,Lisbon 1070-051 Portugal
+4783459,Park,4.0,1450,,attraction,nightlife,Calcada do Combro 58,Lisbon,Portugal,1200-123,"Calcada do Combro 58, Lisbon 1200-123 Portugal"
+4053330,Avenida da Liberdade,4.3,2464,,attraction,"landmarks, attractions",,Lisbon,Portugal,1250-096,Lisbon 1250-096 Portugal
+195785,Park and National Palace of Pena,4.2,20366,,attraction,"landmarks, attractions",Estrada da Pena,Sintra,Portugal,2710-609,"Estrada da Pena, Sintra 2710-609 Portugal"
+2211899,Miradouro de Santa Luzia,4.4,1755,,attraction,"landmarks, attractions",Largo de Santa Luzia,Lisbon,Portugal,1100-487,"Largo de Santa Luzia Alfama, Lisbon 1100-487 Portugal"
+12258331,Cycling Lisbon,5.0,165,,attraction,"sightseeing_tours, activities, outdoor_activities",Alto do Parque Alameda Cardeal Cerejeira,Lisbon,Portugal,1070-044,"Alto do Parque Alameda Cardeal Cerejeira Park Metro Station, Lisbon 1070-044 Portugal"
+8754881,Miradouro Das Portas Do Sol,4.5,535,,attraction,"landmarks, attractions",Largo Das Portas Do Sol,Lisbon,Portugal,1100-411,"Largo Das Portas Do Sol Alfama, Lisbon 1100-411 Portugal"
+2043527,Lisbon Walker,4.8,409,,attraction,"sightseeing_tours, activities",Rua do Jardim do Tabaco 126 Slj,Lisbon,Portugal,1100-288,"Rua do Jardim do Tabaco 126 Slj, Lisbon 1100-288 Portugal"
+4374164,Fjellstua Viewpoint,4.6,1753,,attraction,"landmarks, attractions",Parkgata 11,Alesund,Norway,6003,"Parkgata 11, Alesund 6003 Norway"
+2108391,Stegastein Viewpoint,4.7,782,,attraction,"landmarks, attractions",Bjorgavegen 83,Aurlandsvangen,Norway,5745,"Bjorgavegen 83, Aurlandsvangen 5745 Norway"
