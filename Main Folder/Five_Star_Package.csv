@@ -1,0 +1,21 @@
+location_id,name,rating,num_reviews,category,subcategory,street1,city,country,postalcode,address_string,price_level,cuisine
+8460163,ColourTrip Lisbon,5.0,2983,Attraction,"sightseeing_tours, activities, outdoor_activities",-,Lisbon,Portugal,-,Lisbon Portugal,-,-
+10686020,Eco Tuk Tuk Lisbon,5.0,2152,Attraction,"sightseeing_tours, activities, outdoor_activities",Tv. do Carvalho 25,Lisbon,Portugal,1200-058,"Tv. do Carvalho 25, Lisbon 1200-058 Portugal",-,-
+7374624,Culinary Backstreets Lisbon,5.0,1727,Attraction,"food_drink, sightseeing_tours, activities",-,Lisbon,Portugal,-,Lisbon Portugal,-,-
+12920370,Lisbon with Pats,5.0,167,Attraction,"sightseeing_tours, activities",-,Lisbon,Portugal,-,Lisbon Portugal,-,-
+12258331,Cycling Lisbon,5.0,165,Attraction,"sightseeing_tours, activities, outdoor_activities",Alto do Parque Alameda Cardeal Cerejeira,Lisbon,Portugal,1070-044,"Alto do Parque Alameda Cardeal Cerejeira Park Metro Station, Lisbon 1070-044 Portugal",-,-
+13071752,Jam Club,4.9,1757,Restaurant,-,Travessa dos Inglesinhos 49,Lisbon,Portugal,1200-223,"Travessa dos Inglesinhos 49, Lisbon 1200-223 Portugal",$,"portuguese, gastropub, dining_bars"
+23808782,Seventh Brunch Chiado,4.9,1153,Restaurant,-,Calcada Do Combro 147,Lisbon,Portugal,1200-452,"Calcada Do Combro 147, Lisbon 1200-452 Portugal",$$ - $$$,"european, british, portuguese, cafe, international"
+23691818,Sto Restaurante & Mercearia,4.9,1006,Restaurant,-,"Rua dos Fanqueiros, 85",Lisbon,Portugal,1100-227,"Rua dos Fanqueiros, 85, Lisbon 1100-227 Portugal",$$ - $$$,portuguese
+8574693,Estamine Art Food Drink,4.9,750,Restaurant,-,Calcada do Monte 86A,Lisbon,Portugal,1170-112,"Calcada do Monte 86A Graça, Lisbon 1170-112 Portugal",$,"bar, pub, healthy"
+18942434,Antikuario Cafe,4.9,746,Restaurant,-,Rua de Sao Jose 168,Lisbon,Portugal,1150-326,"Rua de Sao Jose 168, Lisbon 1150-326 Portugal",$$ - $$$,"mediterranean, european, healthy, portuguese"
+23976748,Restaurant Odaan,4.9,742,Restaurant,-,Rua dos Cavaleiros 07 LJ 11,Lisbon,Portugal,1100-295,"Rua dos Cavaleiros 07 LJ 11, Lisbon 1100-295 Portugal",$,"indian, bar, asian, nepali"
+23644505,Re'Tasco,4.9,742,Restaurant,-,Estrada do Calhariz de Benfica N13,Lisbon,Portugal,1500-121,"Estrada do Calhariz de Benfica N13, Lisbon 1500-121 Portugal",$$ - $$$,"european, portuguese, mediterranean, international, grill, contemporary"
+11641226,Rose Stupa Resturant,4.9,696,Restaurant,-,Rua Ponta Delgada 80B,Lisbon,Portugal,1000-244,"Rua Ponta Delgada 80B In front of Finanças Office, Lisbon 1000-244 Portugal",$,"indian, international, asian, nepali"
+12850736,Pastanaga,4.9,212,Restaurant,-,Travessa dos Pescadores 27,Lisbon,Portugal,1200-328,"Travessa dos Pescadores 27, Lisbon 1200-328 Portugal",$$ - $$$,"mediterranean, european, healthy, portuguese"
+25576333,Honua Lisbon Brunch & Drinks,4.9,178,Restaurant,-,Rua dos Fanqueiros 14,Lisbon,Portugal,1100-231,"Rua dos Fanqueiros 14, Lisbon 1100-231 Portugal",$$ - $$$,"cafe, international, european, healthy, portuguese, dining_bars"
+12659702,Corpo Santo Lisbon Historical Hotel,4.9,4398,Hotel,-,"Largo do Corpo Santo, 25",Lisbon,Portugal,1200-129,"Largo do Corpo Santo, 25, Lisbon 1200-129 Portugal",$$$$,-
+13402042,Hotel Da Baixa,4.9,2868,Hotel,-,Rua da Prata 231,Lisbon,Portugal,1100-417,"Rua da Prata 231, Lisbon 1100-417 Portugal",$$$,-
+7376234,Santiago De Alfama - Boutique Hotel,4.9,1639,Hotel,-,Rua Santiago 10 14,Lisbon,Portugal,1100-494,"Rua Santiago 10 14, Lisbon 1100-494 Portugal",$$$$,-
+23381482,Blue Liberdade Hotel,4.9,1128,Hotel,-,Praca Dos Restauradores 78,Lisbon,Portugal,1250-188,"Praca Dos Restauradores 78, Lisbon 1250-188 Portugal",$$$,-
+10621974,Martinhal Lisbon Chiado Family Suites,4.9,662,Hotel,-,Rua das Flores 44,Lisbon,Portugal,1200-195,"Rua das Flores 44, Lisbon 1200-195 Portugal",$$$$,-
